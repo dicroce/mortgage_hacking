@@ -16,7 +16,9 @@ Was he right? I did an experiment:
 So, at first it appears he was correct. With a second payment of 40k the loan is finished 5 years earlier saving $31,754.82 over a 40k down payment. The problem with this logic however is that often your loan interest rate is determined partially by the amount of your down payment. It's likely that if you don't put your 40k down you'll have to take a loan with a higher rate. The only solution is to carefully model all of the scenarios available to you. Perhaps if you have strong enough credit your rate won't be too negatively affected.
 
 # compiling
-Compile with the normal CMake method:
+First, update the code with details of your mortgage (amount, interest rate, etc...) Then compile with the normal CMake method:
 
     mkdir -p build && pushd build && cmake .. && make && popd
 
+# todo
+Property taxes + PMI
