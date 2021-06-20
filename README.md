@@ -1,5 +1,5 @@
 # mortgage_hacking
-So, I saw this video on tic-tok where the creator claimed that it was smarter to use your down payment on the second payment instead of as a down payment. Before I believed him I had to model it for myself so I created this repo.
+So, I saw this video on tik-tok where the creator claimed that it was smarter to use your down payment on the second payment instead of as a down payment. Before I believed him I had to model it for myself so I created this repo.
 
 Was he right? I did an experiment:
 
